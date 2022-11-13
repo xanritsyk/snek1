@@ -1,0 +1,18 @@
+header{
+    font-size: 100px;
+    background-color: white;
+    width: 200px;
+    margin: 10px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px black;
+    text-align: center;
+    color: blue;
+    text-shadow: 2px 2px black;
+    font-size: 2em;
+}
+
+body{
+background-color: forestgreen;
+background-image: url("../Bowman-scaled-1-2000x1334.jpg");
+}
